@@ -1,0 +1,111 @@
+NM
+TX
+NC
+MO
+CA
+OH
+CA
+WA
+NM
+NC
+CA
+KY
+OH
+MN
+PA
+CA
+TX
+CA
+GA
+AZ
+OH
+AK
+PA
+IL
+MO
+MO
+CA
+OH
+CA
+CA
+CA
+OR
+IN
+SC
+CA
+AZ
+NJ
+CA
+NM
+VA
+AZ
+AZ
+LA
+IL
+OR
+TX
+IL
+WI
+ID
+CA
+OH
+LA
+KS
+GA
+MO
+NJ
+OK
+TX
+MO
+TN
+TN
+NE
+CA
+TX
+AL
+OR
+MN
+CA
+CA
+LA
+IL
+TX
+OK
+OR
+TX
+IA
+WA
+MN
+NY
+KY
+CA
+VA
+{u'AK': 0,
+ u'AL': 0,
+ u'AZ': -3,
+ u'CA': 10,
+ u'GA': 3,
+ u'IA': 0,
+ u'ID': 0,
+ u'IL': 1,
+ u'IN': 0,
+ u'KS': 0,
+ u'KY': -1,
+ u'LA': 0,
+ u'MN': 0,
+ u'MO': 0,
+ u'NC': 0,
+ u'NE': 0,
+ u'NJ': 0,
+ u'NM': 0,
+ u'NY': 0,
+ u'OH': 6,
+ u'OK': 0,
+ u'OR': -4,
+ u'PA': 0,
+ u'SC': 0,
+ u'TN': 0,
+ u'TX': 11,
+ u'VA': 4,
+ u'WA': 0,
+ u'WI': 0}
